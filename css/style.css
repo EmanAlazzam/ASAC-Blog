@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+    margin-top: 20px;
+
+}
+.fieldset{
+    height: 300px;
+    width: 650px;
+    background-color: rgba(96, 96, 96,0.6);
+    float: left;
+}
+button{
+    width:300px;
+}
+
+#divone{
+    width:500px;
+    height: 250px;
+    float: right;
+    background-color: rgba(96, 96, 96,0.6);
+    margin-top: -1px;
+}
+.divtow{
+    background-color: #000;
+    width:200px;
+    height: 150px;
+}
